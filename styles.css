@@ -319,6 +319,9 @@ body {
   }
 }
 .footer{
+  position: relative;
+  font-family: monospace;
+  font-size: x-large;
   text-align:center;
   color:#777;
 }
