@@ -323,6 +323,9 @@ body {
   color:#777;
 }
 .footerLink{
+  position: relative;
+  font-family: monospace;
+  font-size: x-large;
   text-align:center;
   text-decoration:none;
   color:#777;
