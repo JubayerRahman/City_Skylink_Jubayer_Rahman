@@ -318,4 +318,13 @@ body {
       );
   }
 }
-    
+.footer{
+  text-align:center;
+  color:#777;
+}
+.footerLink{
+  text-align:center;
+  text-decoration:none;
+  color:#777;
+}
+   
